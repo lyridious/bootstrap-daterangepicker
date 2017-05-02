@@ -62,7 +62,7 @@
 
         this.buttonClasses = 'btn btn-sm';
         this.applyClass = 'btn-success';
-        this.cancelClass = 'btn-default';
+        this.cancelClass = 'btn-secondary';
 
         this.locale = {
             direction: 'ltr',
